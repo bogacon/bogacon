@@ -7,6 +7,5 @@
 
 <br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bogacon&show_icons=true&theme=gotham" alt="bogacon" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bogacon&show_icons=true&theme=dark" alt="bogacon" />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="195" />
