@@ -8,4 +8,4 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=bogacon&show_icons=true&theme=gotham" alt="bogacon" />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="393" height="195" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="195" />
